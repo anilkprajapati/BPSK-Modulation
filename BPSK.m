@@ -1,4 +1,4 @@
-%BPSK
+%BPSK Modulation 
 %Reference: https://www.youtube.com/watch?v=PZoNwTYl0IM
 clear 
 clc
