@@ -2,7 +2,7 @@
 %Reference: https://www.youtube.com/watch?v=PZoNwTYl0IM
 clear 
 clc
-% Input Sequence
+% Input SequenceS
 %n=[1,0,1,0,1];
 n=randi([0,1],1,5)
 % Mapping
