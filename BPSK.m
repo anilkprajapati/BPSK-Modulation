@@ -2,10 +2,10 @@
 %Reference: https://www.youtube.com/watch?v=PZoNwTYl0IM
 clear 
 clc
-% Input SequenceS
+% Input Sequence
 %n=[1,0,1,0,1];
 n=randi([0,1],1,5)
-% Mapping
+% Mappings
 for ii=1:length(n)
     if n(ii)==1;
         nn(ii)=1;
